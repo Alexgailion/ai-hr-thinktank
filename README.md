@@ -42,8 +42,6 @@ Anyone accountable for how an organization operates in the AI era:
 | **C&B** 💰 | Compensation design, equity, pay-for-skills | Prices talent like assets, not headcount |
 | **HRG** 🧣 | Org politics, culture, change readiness | First to ask: who gets hurt when this lands? |
 
-*In Chinese sessions: Tech · OD · Performance · Talent Dev · Recruiting · C&B · HRG*
-
 ## What Makes This Different
 
 **The panel disagrees — on purpose.**
